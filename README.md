@@ -35,4 +35,16 @@ Añade tu nombre al final de la lista para poder participar.
 * Camila Garrido
 * Martín Jara
 * Darío Alonso
+* Jonathan Pierre
+* Diego Retamal
+* Juan Luengo <(´= ⩊ =`)>
+* Gonzalo Caceres
+* Claudio Olave
+* Samantha Ramírez
+* Benjamín Ramírez
+* Carina Peña y Lillo Amaro
+* Catalina Ramirez
+* Marcial Núñez
+* Ivan Moraga
+* Lucas Ortiz Warnken
 * Joaquín Parra
