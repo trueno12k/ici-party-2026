@@ -46,3 +46,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Catalina Ramirez
 * Marcial Núñez
 * Ivan Moraga
+* Lucas Ortiz Warnken
