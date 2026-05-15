@@ -52,3 +52,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Joaquín Parra
 * Amaro Villalobos 
 * Melisa Rodriguez
+* Lukas Seguel
