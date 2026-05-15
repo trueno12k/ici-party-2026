@@ -50,3 +50,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Juan Núñez
 * Christopher Quiroz
 * Joaquín Parra
+* Renato Vergara
