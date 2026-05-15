@@ -23,3 +23,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Juan el Flores
 * Oscar Faúndez
 * Vicente Lara
+* Santiago Fajardo
